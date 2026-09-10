@@ -1,6 +1,6 @@
 # Hi, I'm Sridhar 👋
 
-### IIT Delhi Graduate | Aspiring AI/ML Engineer | Data Science
+###IIT Delhi Graduate | Aspiring AI/ML Engineer | Data Science | NLP | Generative AI
 
 I'm passionate about using data, machine learning, and artificial intelligence
 to solve real-world problems. I enjoy building end-to-end projects involving
