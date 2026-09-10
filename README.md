@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Sridhar 👋
 
-<!--
-**siddu3639-collab/siddu3639-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI/ML Engineer | Data Science | Machine Learning | Deep Learning
 
-Here are some ideas to get you started:
+I'm passionate about using data and machine learning to solve real-world problems. I build projects involving data analysis, predictive modeling, recommendation systems, and deep learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+**Indian Institute of Technology Delhi (IIT Delhi)**  
+Graduate
+
+## 🛠️ Skills
+
+- **Programming:** Python, SQL, MATLAB
+- **Data Science:** Pandas, NumPy, Matplotlib, Scikit-learn
+- **Machine Learning:** Regression, Classification, Clustering, Recommendation Systems
+- **Deep Learning:** CNN, Neural Networks
+- **Tools:** Git, GitHub, Jupyter Notebook, VS Code, Power BI, Excel
+
+## 🚀 Featured Projects
+
+- ⚡ AI Energy Intelligence Platform
+- 🎬 Movie Recommendation System
+- 🧠 CNN MNIST Classification
+- 📊 Retail Sales Analytics
+- 💰 Insurance Price Prediction
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/palthi-sridhar-naik-3846b039b
+- Email: sridharnaik3639@gmail.com
+
